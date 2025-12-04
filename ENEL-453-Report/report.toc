@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {I}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {\mbox {I-A}}Objectives}{1}{subsection.1.1}%
+\contentsline {section}{\numberline {II}System architecture}{1}{section.2}%
+\contentsline {section}{\numberline {III}Detail design}{2}{section.3}%
+\contentsline {subsection}{\numberline {\mbox {III-A}}XADC subsystem}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {\mbox {III-B}}PWM Ramp ADC}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {\mbox {III-C}}R2R Ladder ADC}{2}{subsection.3.3}%
+\contentsline {subsection}{\numberline {\mbox {III-D}}Successive Approximation Algorithm (SAR)}{2}{subsection.3.4}%
+\contentsline {section}{\numberline {IV}Implementation}{2}{section.4}%
+\contentsline {section}{\numberline {V}Testing and Verification}{2}{section.5}%
+\contentsline {section}{\numberline {VI}AI Use}{3}{section.6}%
+\contentsline {section}{\numberline {VII}Lessons learned}{3}{section.7}%
+\contentsline {section}{\numberline {VIII}Conclusion}{3}{section.8}%
+\contentsline {section}{Appendix\nobreakspace A: Team contributions}{3}{section*.2}%
+\contentsline {subsection}{\numberline {\mbox {A-A}}Amar, Hamza}{3}{subsection.Appendix.A.1}%
+\contentsline {subsection}{\numberline {\mbox {A-B}}Fuentes, Santiago}{3}{subsection.Appendix.A.2}%
+\contentsline {subsection}{\numberline {\mbox {A-C}}Wijaya, Rhenaldi}{3}{subsection.Appendix.A.3}%
+\contentsline {section}{Appendix\nobreakspace B: Figures \& Full RTL Code}{4}{section*.3}%
+\contentsline {subsection}{\numberline {\mbox {B-A}}Figures}{4}{subsection.Appendix.B.1}%
+\contentsline {subsection}{\numberline {\mbox {B-B}}SystemVerilog (RTL)}{5}{subsection.Appendix.B.2}%

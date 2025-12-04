@@ -1,0 +1,12 @@
+\section{System architecture}
+
+Our system is based on the required hierarchical organization common and mostly necessary in FPGA design.
+
+We divided our Top Module into multiple submodules which are the XADC, PWM, R2R subsystems each of these encompass the 
+required components, combinational logic, and connections, that make these subsystems work. Furthermore, we have the 7-segment display modules,
+as well as, the MUX4 and DP MUX, which let the user select between the different outputs each of the subsystems print in the display, see \autoref{fig:rtl-schematic}.
+
+The circuit design is divided into the PWM comparator circuit and the R2R ladder circuit which its main requirement is to compare the data signals coming
+from the Basys3 board that get displayed into values displayed based on the changes of the voltage due to the potentiometer see \autoref{fig:proto-photos}.
+
+The design allows the user to select into the following different outputs values.

@@ -1,0 +1,60 @@
+\documentclass[12pt,conference,letterpaper]{IEEEtran}
+
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs,longtable,array}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage[caption=false,font=footnotesize]{subfig}
+
+\lstdefinelanguage{SystemVerilog}{
+  language=Verilog,
+  morekeywords={logic,always_ff,always_comb,typedef,enum,parameter,localparam,
+    interface,modport,package,import,export,struct,union,unique,priority,
+    inside,foreach,assert,assume,cover,property,sequence}
+}
+
+\lstset{
+  basicstyle=\ttfamily\footnotesize,
+  breaklines=true,
+  frame=single,
+  columns=fullflexible,
+  upquote=true,
+  numbers=left,
+  numberstyle=\tiny,
+  showstringspaces=false
+}
+\bibliographystyle{IEEEtran}
+
+% Put these here (recommended)
+\title{Design Project - Discrete ADC}
+\author{Hamza Amar, Santiago Fuentes, Rhenaldi Wijaya; \textit{Group 14}}
+\begin{document}
+
+% Make title appear
+\maketitle
+
+% If you want TOC, do it AFTER maketitle
+
+\pagenumbering{roman}
+\tableofcontents
+
+\pagenumbering{arabic}
+
+\input{sections/01-introduction}
+\input{sections/02-system-architecture}
+\input{sections/03-detailed-design}
+\input{sections/04-implementation-results}
+\input{sections/05-testing-verification}
+\input{sections/06-ai-use}
+\input{sections/07-lessons-learned}
+\input{sections/08-conclusion}
+
+\appendices
+\input{sections/A2-team-contributions}
+\onecolumn
+\input{sections/A1-full-code}
+\end{document}

@@ -1,0 +1,76 @@
+\section{Figures \& Full RTL Code}
+\subsection{Figures}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\linewidth]{figures/Schematic-RTL-Final.png}
+  \caption{Top-level RTL schematic.}
+  \label{fig:rtl-schematic}
+\end{figure}
+
+% --- Prototype photos (side-by-side) ---
+\begin{figure}[H]
+  \centering
+  \subfloat[Connections close-up]{%
+    \includegraphics[width=0.48\linewidth]{figures/Connections.jpg}%
+    \label{fig:proto-connections}
+  }\hfill
+  \subfloat[Breadboard overview]{%
+    \includegraphics[width=0.48\linewidth]{figures/Breadboard.jpg}%
+    \label{fig:proto-breadboard}
+  }
+  \caption{Prototype wiring and breadboard implementation.}
+  \label{fig:proto-photos}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\linewidth]{figures/WNS-Table.png}
+  \caption{Vivado timing summary (WNS) table.}
+  \label{fig:wns-table}
+\end{figure}
+    
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\linewidth]{figures/sar_fsm.pdf}
+  \caption{SAR ADC finite state machine (FSM) diagram.}
+  \label{fig:sar-fsm}
+\end{figure}
+
+\subsection{SystemVerilog (RTL)}
+
+\lstinputlisting[language=SystemVerilog,caption={abc\_subsystem.sv},label={lst:abc_subsystem}]{code/abc_subsystem.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={averager.sv},label={lst:averager}]{code/averager.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={bin\_to\_bcd.sv},label={lst:bin_to_bcd}]{code/bin_to_bcd.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={decimal\_point\_mux.sv},label={lst:decimal_point_mux}]{code/decimal_point_mux.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={digit\_multiplexor.sv},label={lst:digit_multiplexor}]{code/digit_multiplexor.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={edge\_detector.sv},label={lst:edge_detector}]{code/edge_detector.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={lab\_5\_top\_level\_students.sv},label={lst:lab5_top}]{code/lab_5_top_level_students.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={mux4\_16\_bits.sv},label={lst:mux4_16_bits}]{code/mux4_16_bits.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={pwm\_system.sv},label={lst:pwm_system}]{code/pwm_system.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={pwm.sv},label={lst:pwm}]{code/pwm.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={r2r\_subsystem.sv},label={lst:r2r_subsystem}]{code/r2r_subsystem.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={sar.sv},label={lst:sar}]{code/sar.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={saw\_generator.sv},label={lst:saw_generator}]{code/saw_generator.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={seven\_segment\_decoder.sv},label={lst:seven_segment_decoder}]{code/seven_segment_decoder.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={seven\_segment\_digit\_selector.sv},label={lst:seven_segment_digit_selector}]{code/seven_segment_digit_selector.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={seven\_segment\_display\_subsystem.sv},label={lst:seven_segment_display_subsystem}]{code/seven_segment_display_subsystem.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={XADC\_system.sv},label={lst:xadc_system}]{code/XADC_system.sv}
+\clearpage
+\lstinputlisting[language=SystemVerilog,caption={Basys3\_Lab\_7.xdc},label={lst:xdc_file}]{code/Basys3_Lab_7.xdc}

@@ -1,0 +1,43 @@
+\section{Detail design}
+
+\subsection{XADC subsystem}
+
+This module serves as a measurement tool in the XADC IP code using channel 15 in the PMOD pins of N2/N1 in this design, it operates in continuous sampling mode.
+
+The raw output undergoes an additional averaging using a custom module extending the resolution of the output to 16 bits. Furthermore, we decided to use the following formula
+
+\begin{equation}
+\mathrm{mV} = \left(\mathrm{ave\_data}\cdot 3300\right)\gg 16
+\end{equation}
+
+with scaling factor of 16 to scale the RAW value to decimal volts value. A rising edge signal is used to enable the averager correctly. It has hexadecimal, scaled and averaged
+outputs thanks to the multiplexer.
+
+\subsection{PWM Ramp ADC}
+
+The PWM ramp ADC adds an 8-bit analog-to-digital conversion using a pulse-with modulation module in complementation with the Sawtooth generator that creates a ramping duty cycle
+from 0 to 255 shown in the oscilloscope. The external comparator compares the input voltage versus the ramp voltage using an edge detector to indicate
+the moment the ramp crosses the input, allowing the capture of the raw ADC result. 
+
+With averaging, the effective update rate is approximately 1.56 updates per second.
+
+\subsection{R2R Ladder ADC}
+
+Working similarly to the PWM module, the R2R as it name suggests it uses a resistor ladder for the digital-to-analog conversion. The same sawtooth module
+generates the 8-bit counter values that driver the external resistor. Compared to the PWM it has faster settling times, and it can work without the low pass
+filter.
+
+The conversion principle remains identical to the PWM implementation: the comparator falling edge triggers capture of the current counter value.
+
+\subsection{Successive Approximation Algorithm (SAR)}
+
+The SAR ADC algorithm is implemented as a replacement of the ramp method by performing a binary search across the 8-bit range generated using fewer
+comparisons to complete a full conversion.
+
+The seven-state FSM, see \autoref{fig:sar-fsm}, is used to represent the algorithm with the following states
+(\texttt{IDLE}, \texttt{INIT}, \texttt{WAIT\_SETTLE}, \texttt{COMPARE}, \texttt{DECIDE}, \texttt{NEXT\_BIT}, \texttt{DONE}).
+
+Starting from the MSB, each bit is set to 1, and comparing the results after waiting for the PWM and the R2R circuits. If the voltage input is larger than the voltage
+of the DAC the bit is clear if not it remains. After all the bit testing is done, the final result is output with a conversion pulse.
+
+The SAR, also has a switch detection logic to compare the two modes, with and without the SAR, as well as having auto-restart logic for continuous sampling.

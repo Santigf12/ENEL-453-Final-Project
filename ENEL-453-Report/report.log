@@ -1,0 +1,918 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2025.11.15)  2 DEC 2025 22:28
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/santigf12/Documents/LaTex Projects/ENEL-453-Report/report.tex"
+(/home/santigf12/Documents/LaTex Projects/ENEL-453-Report/report.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (/usr/share/texlive/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen140
+\@IEEEtrantmpdimenB=\dimen141
+\@IEEEtrantmpdimenC=\dimen142
+\@IEEEtrantmpcountA=\count181
+\@IEEEtrantmpcountB=\count182
+\@IEEEtrantmpcountC=\count183
+\@IEEEtrantmptoksA=\toks16
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 503.
+LaTeX Font Info:    No file TUptm.fd. on input line 503.
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 503.
+
+-- Using 8.5in x 11in (letter) paper.
+-- Using DVI output.
+\@IEEEnormalsizeunitybaselineskip=\dimen143
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen144
+\CLASSINFOnormalsizeunitybaselineskip=\dimen145
+\IEEEnormaljot=\dimen146
+
+LaTeX Font Warning: Font shape `TU/ptm/bx/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 1090.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 1090.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/bx/it' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 1090.
+
+\IEEEquantizedlength=\dimen147
+\IEEEquantizedlengthdiff=\dimen148
+\IEEEquantizedtextheightdiff=\dimen149
+\IEEEilabelindentA=\dimen150
+\IEEEilabelindentB=\dimen151
+\IEEEilabelindent=\dimen152
+\IEEEelabelindent=\dimen153
+\IEEEdlabelindent=\dimen154
+\IEEElabelindent=\dimen155
+\IEEEiednormlabelsep=\dimen156
+\IEEEiedmathlabelsep=\dimen157
+\IEEEiedtopsep=\skip48
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@IEEEsubequation=\count188
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\c@figure=\count189
+\c@table=\count190
+\@IEEEeqnnumcols=\count191
+\@IEEEeqncolcnt=\count192
+\@IEEEsubeqnnumrollback=\count193
+\@IEEEquantizeheightA=\dimen158
+\@IEEEquantizeheightB=\dimen159
+\@IEEEquantizeheightC=\dimen160
+\@IEEEquantizeprevdepth=\dimen161
+\@IEEEquantizemultiple=\count194
+\@IEEEquantizeboxA=\box51
+\@IEEEtmpitemindent=\dimen162
+\IEEEPARstartletwidth=\dimen163
+\c@IEEEbiography=\count195
+\@IEEEtranrubishbin=\box52
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen166
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen167
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen168
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks19
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks20
+\eqnshift@=\dimen169
+\alignsep@=\dimen170
+\tagshift@=\dimen171
+\tagwidth@=\dimen172
+\totwidth@=\dimen173
+\lineht@=\dimen174
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen175
+\lightrulewidth=\dimen176
+\cmidrulewidth=\dimen177
+\belowrulesep=\dimen178
+\belowbottomsep=\dimen179
+\aboverulesep=\dimen180
+\abovetopsep=\dimen181
+\cmidrulesep=\dimen182
+\cmidrulekern=\dimen183
+\defaultaddspace=\dimen184
+\@cmidla=\count274
+\@cmidlb=\count275
+\@aboverulesep=\dimen185
+\@belowrulesep=\dimen186
+\@thisruleclass=\count276
+\@lastruleclass=\count277
+\@thisrulewidth=\dimen187
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count278
+\LTcapwidth=\dimen188
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@gbox=\box59
+\LT@cols=\count279
+\LT@rows=\count280
+\c@LT@tables=\count281
+\c@LT@chunks=\count282
+\LT@p@ftn=\toks23
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen189
+\ar@mcellbox=\box60
+\extrarowheight=\dimen190
+\NC@list=\toks24
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box61
+) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip60
+\enit@outerparindent=\dimen191
+\enit@toks=\toks25
+\enit@inbox=\box62
+\enit@count@id=\count283
+\enitdp@description=\count284
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count285
+)
+\@linkdim=\dimen192
+\Hy@linkcounter=\count286
+\Hy@pagecounter=\count287
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count288
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4425.
+\c@Hy@tempcnt=\count289
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen193
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count290
+\Field@Width=\dimen194
+\Fld@charsize=\dimen195
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count291
+\c@Item=\count292
+\c@Hfootnote=\count293
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2023-02-07 v7.00v Hyperref driver for XeTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box63
+\c@Hy@AnnotLevel=\count294
+\HyField@AnnotCount=\count295
+\Fld@listcount=\count296
+\c@bookmark@seq@number=\count297
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+) (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip61
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count298
+\float@exts=\toks26
+\float@box=\box64
+\@float@everytoks=\toks27
+\@floatcapt=\box65
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count299
+\lst@gtempboxa=\box66
+\lst@token=\toks28
+\lst@length=\count300
+\lst@currlwidth=\dimen196
+\lst@column=\count301
+\lst@pos=\count302
+\lst@lostspace=\dimen197
+\lst@width=\dimen198
+\lst@newlines=\count303
+\lst@lineno=\count304
+\lst@maxwidth=\dimen199
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count305
+\lst@skipnumbers=\count306
+\lst@framebox=\box67
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen256
+\captionmargin=\dimen257
+\caption@leftmargin=\dimen258
+\caption@rightmargin=\dimen259
+\caption@width=\dimen260
+\caption@indent=\dimen261
+\caption@parindent=\dimen262
+\caption@hangindent=\dimen263
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEtablestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\normalfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\normalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONconference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi \fi  on input line 1176.
+)
+\c@KVtest=\count307
+\sf@farskip=\skip62
+\sf@captopadj=\dimen264
+\sf@capskip=\skip63
+\sf@nearskip=\skip64
+\c@subfigure=\count308
+\c@subfigure@save=\count309
+\c@lofdepth=\count310
+\c@subtable=\count311
+\c@subtable@save=\count312
+\c@lotdepth=\count313
+\sf@top=\skip65
+\sf@bottom=\skip66
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
+\g__graphics_track_int=\count314
+\l__pdf_internal_box=\box68
+\g__pdf_backend_object_int=\count315
+\g__pdf_backend_annotation_int=\count316
+\g__pdf_backend_link_int=\count317
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 35.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 35.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
+(Font)              using `TU/ptm/bx/it' instead on input line 35.
+
+-- Lines per column: 48 (exact).
+Package hyperref Info: Link coloring OFF on input line 35.
+(./report.out) (./report.out)
+\@outlinefile=\write3
+\openout3 = `report.out'.
+
+\c@lstlisting=\count318
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sc' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 43.
+
+(./report.toc
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 1.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 4.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+ [][] [][]\TU/ptm/bx/it/12 Successive Approximation 
+ []
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 9.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 10.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 11.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 12.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 13.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 14.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 18.
+
+)
+\tf@toc=\write4
+\openout4 = `report.toc'.
+
+ (./sections/01-introduction.tex) (./sections/02-system-architecture.tex) (./sections/03-detailed-design.tex [1
+
+
+]
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 38.
+LaTeX Font Info:    No file TUpcr.fd. on input line 38.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 38.
+
+) (./sections/04-implementation-results.tex
+Overfull \hbox (6.6589pt too wide) detected at line 10
+[][][]\OML/cmm/m/it/12 T[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 T[] \OMS/cmsy/m/n/12 ^^@ [] \OT1/cmr/m/n/12 = 10\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 00 \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 159 = 6\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 841 [][]\OML/cmm/m/it/12 :
+ []
+
+
+Overfull \hbox (12.11623pt too wide) detected at line 15
+[][][]\OML/cmm/m/it/12 f[]\OT1/cmr/m/n/12 ([]) = [] = [] \OMS/cmsy/m/n/12 ^^Y \OT1/cmr/m/n/12 146\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 18 [][]\OML/cmm/m/it/12 :
+ []
+
+) (./sections/05-testing-verification.tex [2]) (./sections/06-ai-use.tex) (./sections/07-lessons-learned.tex) (./sections/08-conclusion.tex) (./sections/A2-team-contributions.tex) [3] (./sections/A1-full-code.tex
+File: figures/Schematic-RTL-Final.png Graphic file (type bmp)
+<figures/Schematic-RTL-Final.png>
+File: figures/Connections.jpg Graphic file (type bmp)
+<figures/Connections.jpg>
+File: figures/Breadboard.jpg Graphic file (type bmp)
+<figures/Breadboard.jpg>
+File: figures/WNS-Table.png Graphic file (type bmp)
+<figures/WNS-Table.png>
+ [4
+
+]
+File: figures/sar_fsm.pdf Graphic file (type pdf)
+<use figures/sar_fsm.pdf>
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2023/02/27 1.9 listings language file
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2023/02/27 1.9 listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 42.
+ (./code/abc_subsystem.sv
+
+LaTeX Font Warning: Font shape `TU/pcr/b/n' undefined
+(Font)              using `TU/pcr/m/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/it' undefined
+(Font)              using `TU/pcr/m/n' instead on input line 2.
+
+[5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]) [7] (./code/averager.sv) [8
+
+] (./code/bin_to_bcd.sv
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9
+
+]) [10] (./code/decimal_point_mux.sv) [11
+
+] (./code/digit_multiplexor.sv
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12
+
+]) [13] (./code/edge_detector.sv
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ┐ (U+2510) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ┌ (U+250C) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no └ (U+2514) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ┘ (U+2518) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ┐ (U+2510) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no └ (U+2514) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ┐ (U+2510) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no └ (U+2514) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+Missing character: There is no ─ (U+2500) in font [lmroman9-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14
+
+]) [15] (./code/lab_5_top_level_students.sv
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16
+
+]) [17] (./code/mux4_16_bits.sv) [18
+
+] (./code/pwm_system.sv
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 18--19
+[][] 
+ []
+
+
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 20--21
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19
+
+]
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 79--80
+[][] 
+ []
+
+
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 81--82
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 167--168
+[][] 
+ []
+
+
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 169--170
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 190--191
+[][] 
+ []
+
+
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 192--193
+[][] 
+ []
+
+) [22] (./code/pwm.sv) [23
+
+] (./code/r2r_subsystem.sv
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 10--11
+[][] 
+ []
+
+
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 12--13
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24
+
+]
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 68--69
+[][] 
+ []
+
+
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 70--71
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 141--142
+[][] 
+ []
+
+
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 143--144
+[][] 
+ []
+
+
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 164--165
+[][] 
+ []
+
+
+Overfull \hbox (52.33386pt too wide) in paragraph at lines 166--167
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]) [27] (./code/sar.sv
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]) [30] (./code/saw_generator.sv) [31
+
+] (./code/seven_segment_decoder.sv
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32
+
+]) [33] (./code/seven_segment_digit_selector.sv
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34
+
+]) [35] (./code/seven_segment_display_subsystem.sv
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36
+
+]) [37] (./code/XADC_system.sv
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38
+
+]) [39] (./code/Basys3_Lab_7.xdc
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]))
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[42] (./report.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 5E904F958BDA53E5AE89F78048CF7086;2849.
+ ) 
+Here is how much of TeX's memory you used:
+ 14247 strings out of 476696
+ 229067 string characters out of 5806954
+ 2560018 words of memory out of 6000000
+ 34227 multiletter control sequences out of 15000+600000
+ 517364 words of font info for 60 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 72i,10n,76p,587b,2067s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on report.xdv (42 pages, 1012320 bytes).

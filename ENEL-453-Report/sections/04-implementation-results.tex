@@ -1,0 +1,15 @@
+\section{Implementation}
+
+The design created had a successful implementation with a positive WNS  of 3.159, see \autoref{fig:wns-table}, of  in the final synthesis 
+with the higher input frequency setting than normal of 200 MHz.
+
+Given a user clock period of $T_{\text{user}}=10.00\,\text{ns}$ and the worst negative slack of
+$\text{WNS}=3.159\,\text{ns}$ as previously mentioned, the achievable period is:
+\begin{equation}
+T_{\text{achievable}} = T_{\text{user}} - \text{WNS} = 10.00 - 3.159 = 6.841~\text{ns}.
+\end{equation}
+Thus, the maximum clock frequency is:
+\begin{equation}
+f_{\max}(\text{MHz}) = \frac{1000}{T_{\text{achievable}}(\text{ns})}
+= \frac{1000}{6.841} \approx 146.18~\text{MHz}.
+\end{equation}
